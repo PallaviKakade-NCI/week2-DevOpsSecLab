@@ -28,8 +28,9 @@ chmod 777 fol_2/*_2.txt
 # commit and push your files to GitHub from your terminal
 git add .
 git commit -m "week 2 Lab: Creating  a new git project on GitHub and commit and push your files to GitHub from your terminal"
-git remote add origin branch2
-git push -u origin branch2
+git remote add origin branch1
+git push -u origin branch1
+
 
 echo "Job Completed"
 ~
