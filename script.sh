@@ -33,5 +33,4 @@ git push -u origin branch1
 
 
 echo "Job Completed"
-~
 
