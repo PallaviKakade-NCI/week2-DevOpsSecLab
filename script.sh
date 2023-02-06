@@ -31,6 +31,9 @@ git commit -m "week 2 Lab: Creating  a new git project on GitHub and commit and 
 git remote add origin branch1
 git push -u origin branch1
 
+# Merging all changes on master branch
+git checkout main
+git merge branch1
 
 echo "Job Completed"
 
